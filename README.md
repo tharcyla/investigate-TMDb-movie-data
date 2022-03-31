@@ -2,7 +2,7 @@
 March 31, 2022
 
 ### Project Title
-Investigate Investigate TMDb Movie Data
+Investigate TMDb Movie Data
 
 ### Description
 This project was undertaken as part of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
